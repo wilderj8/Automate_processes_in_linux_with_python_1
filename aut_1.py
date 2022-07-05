@@ -1,6 +1,7 @@
 import pyautogui as pg
 import time
 
+time.sleep(3)
 pg.hotkey("ctrl","alt","t")
 time.sleep(3)
 pg.typewrite("cd Desktop")
@@ -23,11 +24,12 @@ time.sleep(3)
 pg.typewrite("xdg-open")
 time.sleep(1)
 pg.hotkey("Space")
+pg.typewrite("He")
 time.sleep(1)
 pg.hotkey("Tab")
 time.sleep(1)
 pg.hotkey("Enter")
-time.sleep(3)
+time.sleep(4)
 pg.hotkey("Ctrl","win","l")
 time.sleep(3)
 pg.hotkey("alt","shift","tab")
