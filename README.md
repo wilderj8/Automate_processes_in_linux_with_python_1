@@ -14,6 +14,7 @@ packages:
 settings in linux/keyboard shortcuts:
 [ctrl+alt+t]:Launch terminal.
 [ctrl+win+l]:view split on left.
+[ctr+win/super+Down]:Move to workspace above
 
 files:
 music.txt= Save it on the desktop with the letter.
